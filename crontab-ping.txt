@@ -1,0 +1,1 @@
+15 8-18 * * 1-5 /bin/ping -c2 www.google.com
